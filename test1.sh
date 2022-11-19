@@ -6,7 +6,7 @@ echo "Checking input values are correct"
 
 value="20 pounds"
 
-expected_output="23.79 dollars, 23.00 euros"
+expected_output="23.79 dollars , 23.00 euros"
 
 actual_output="java CurrencyConverter"
 
