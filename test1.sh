@@ -18,18 +18,13 @@ then
 
 echo " expected value : $expected_output"
 
-
 elif [$expected_output == $actual_output];
-
 
 then
 
-
 echo "values entered: $actual_output"
 
-
 else
-
 
 echo "invalid input"
 
